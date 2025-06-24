@@ -9,8 +9,6 @@ const nextConfig = {
   images: {
     unoptimized: true,
   },
-  basePath: "/personal-portfolio",
-  assetPrefix: "/personal-portfolio/",
   output: "export",
 }
 
